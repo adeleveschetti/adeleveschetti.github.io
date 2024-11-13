@@ -31,7 +31,7 @@ Smart Contracts"
 
 Visiting
 ======
-* October 2022 - November 2022: ITU Copehnagen, Denmark
+* October 2022 - November 2022: ITU Copenhagen, Denmark
   * Supervisor: Marco Carbone
     
 * April 2022 - July 2022: TU Darmstadt, Germany
