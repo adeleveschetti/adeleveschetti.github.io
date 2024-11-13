@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor degree course"
 permalink: /teaching/programming
 venue: "Bsc. Computer Science, Computer Science and Engineering Department, University of Bologna"
-date: 2014-01-01
+year: 2019-2023
 location: "Bologna, Italy"
 ---
 
