@@ -11,27 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Alma Mater Studiorum University of Bologna, Italy, 2023
+* M.S. in Applied Mathematics, Alma Mater Studiorum University of Bologna, Italy, 2018
+* B.S. in Matemathics, Alma Mater Studiorum University of Bologna, Italy, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2023 - ongoing: Postdoctoral Researcher
+  * TU Darmstadt - Software Engineering Group
+  * Working on the ATHENE (National Research Center For Applied
+Cybersecurity) project "Model-centric Deductive Verification of
+Smart Contracts"
+  * Supervisor: Reiner Hähnle
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2018 - October 2019: Fellow Student
+  * Alma Mater Studiorum University of Bologna
+  * Worked on formal analysis of blockchain protocols
+  * Supervisor: Cosimo Laneve
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Visiting
+======
+* October 2022 - November 2022: ITU Copehnagen, Denmark
+  * Supervisor: Marco Carbone
+    
+* April 2022 - July 2022: TU Darmstadt, Germany
+  * Supervisor: Reiner Hähnle
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Skill 1
@@ -53,11 +64,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
