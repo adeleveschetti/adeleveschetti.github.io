@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, Alma Mater Studiorum University of Bologna, Italy, 2023
-* M.S. in Applied Mathematics, Alma Mater Studiorum University of Bologna, Italy, 2018
-* B.S. in Matemathics, Alma Mater Studiorum University of Bologna, Italy, 2015
-
 Work experience
 ======
 * February 2023 - ongoing: Postdoctoral Researcher
@@ -28,6 +22,12 @@ Smart Contracts"
   * Alma Mater Studiorum University of Bologna
   * Worked on formal analysis of blockchain protocols
   * Supervisor: Cosimo Laneve
+
+Education
+======
+* Ph.D in Computer Science, Alma Mater Studiorum University of Bologna, Italy, 2023
+* M.S. in Applied Mathematics, Alma Mater Studiorum University of Bologna, Italy, 2018
+* B.S. in Matemathics, Alma Mater Studiorum University of Bologna, Italy, 2015
 
 Visiting
 ======
