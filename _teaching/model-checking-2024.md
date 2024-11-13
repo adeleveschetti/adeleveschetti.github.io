@@ -4,7 +4,7 @@ collection: teaching
 type: "Master degree course"
 permalink: /teaching/model-checking-2024
 venue: "Computer Science, FB Informatik, TU Darmstadt "
-date: 2014-01-01
+year: 2024
 location: "Darmstadt, Germany"
 ---
 
